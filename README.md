@@ -1,8 +1,11 @@
-# 💫 About Me:
-¡Hola! 👋 Soy Crystina_G<br> 🔭  Actualmente trabajo en un proyecto con React.js<br> ⚡  Estudio Desarrollo de software desde hace un año<br> 🌱 Estoy aprendiendo Node.js
+# Hola! 👋 
+### 💫 Soy Crystina_G
+- 🔭  Actualmente trabajo en un proyecto con React.js
+-  ⚡  Estudio Desarrollo de software desde hace un año
+-  🌱 Estoy aprendiendo Node.js
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/(Crystina_G)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Crystina_G) 
 
 # 💻 Tech Stack:
