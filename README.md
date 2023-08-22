@@ -1,5 +1,4 @@
-# Hola! 👋 
-### 💫 Soy Crystina_G
+# 👋 Hola! 💫 Soy Crystina_G
 - 🔭  Actualmente trabajo en un proyecto con React.js
 -  ⚡  Estudio Desarrollo de software desde hace un año
 -  🌱 Estoy aprendiendo Node.js
