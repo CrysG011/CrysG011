@@ -1,7 +1,7 @@
 # 👋 Hola! 💫 Soy Crystina_G
 - 🔭  Actualmente trabajo en proyectos de administración de servidores y redes
 -  ⚡  Estudio Desarrollo de software desde hace un año
--  🌱 Estoy aprendiendo Node.js
+-  🌱 Estoy aprendiendo Node, React y Docker.
 
 
 ## 🌐 Redes:
