@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=CrysG011&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CrysG011&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrysG011&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p align="center">
-  <img src="1zLe.gif" alt="Gif" width="25%" heigth="auto">
-</p>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l378w6DoOV26903Sg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/l378w6DoOV26903Sg">via GIPHY</a></p>
+
 
