@@ -1,7 +1,7 @@
 # 👋 Hola! 💫 Soy Crystina_G
-- 🔭  Actualmente trabajo en proyectos de administración de servidores y redes
+- 🔭  Actualmente trabajo en desarrollo de sitios web.
 -  ⚡  Estudio Desarrollo de software desde Abril del 2022.
--  🌱 Estoy aprendiendo Node, React y Docker.
+-  🌱 Estoy aprendiendo Docker, Kubernetes, Automatización y QA.
 
 
 ## 🌐 Redes:
