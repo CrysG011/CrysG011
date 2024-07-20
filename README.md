@@ -1,5 +1,5 @@
 # Hola! Soy Crystina_G
-✔️ Linuxera desde que comencé en el Desarrollo de Software en Abril del 2022
+✔️ **Linuxera** desde que comencé en el Desarrollo de Software en Abril del 2022
 
 -   Actualmente trabajo en el diseño, desarrollo y control de calidad del sitio web de una empresa local.
 -   Estudio Telecomunicaciones de manera autodidacta.
